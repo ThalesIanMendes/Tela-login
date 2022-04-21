@@ -3,6 +3,8 @@
 
 Link->https://thalesianmendes.github.io/Tela-login/
 
+LOGIN: user
+PASSWORD: password
 
 ## 🚀 Projeto criado pare treinar:
 - ✔️ HTML.
