@@ -3,7 +3,6 @@
 
 Link->https://thalesianmendes.github.io/Tela-login/
  
- 
 LOGIN: user
 PASSWORD: password
 
